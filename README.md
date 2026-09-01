@@ -1,0 +1,1 @@
+# SC_TEC-M2_S07-Mini-Projeto-CNN-OpenCV-Pecas
